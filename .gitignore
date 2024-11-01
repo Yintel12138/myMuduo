@@ -1,0 +1,7 @@
+# 排除CMAKEFILE
+CMakeFiles/
+# 排除编译生成的文件
+lib/
+.vscode/
+# 排除编译生成的文件
+*.out
